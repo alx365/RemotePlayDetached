@@ -1,4 +1,5 @@
-pkgname='remote-play-detached-bin'
+pkgname='remoteplaydetached-bin'
+pkgbase='remoteplaydetached'
 _pkgname='RemotePlayDetached'
 pkgver=v0.2.3
 pkgrel=1
