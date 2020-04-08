@@ -5,4 +5,4 @@ sleep 4
 sudo rm /usr/bin/RemotePlayDetached
 rm ~/.local/share/applications/remoteplaydetached.desktop
 rm ~/.icons/remoteplaydetached.png
-
+rm -r ~/RemotePlayDetached
