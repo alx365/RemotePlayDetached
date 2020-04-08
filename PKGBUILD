@@ -21,8 +21,10 @@ package() {
      
     mv remoteplaydetached.png ~/.icons/
 
-    curl https://raw.githubusercontent.com/alx365/RemotePlayDetached/master/uninstall.sh > uninstall.sh
+    
     chmod +x uninstall.sh
     cd ~/
     mkdir RemotePlayDetached
+    cd RemotePlayDetached/
+    curl https://raw.githubusercontent.com/alx365/RemotePlayDetached/master/uninstall.sh > uninstall.sh
 }
